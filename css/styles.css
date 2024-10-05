@@ -3122,7 +3122,7 @@ input::-moz-focus-inner {
     transition: all .5s;
     position: absolute;
     left: 8rem;
-    top: calc(50% - 2px);
+    top: calc(50% - 30px);
 }
 
 .s-header__logo a {
@@ -3151,7 +3151,7 @@ input::-moz-focus-inner {
     font-family: var(--font-2);
     font-weight: 500;
     font-size: 1rem;
-    line-height: 6rem;
+    line-height: 0rem;
     padding-top: 1.4rem;
     padding-bottom: 1.4rem;
     margin: 0;
@@ -3160,7 +3160,7 @@ input::-moz-focus-inner {
 }
 
 .s-header__nav a {
-    color: var(--color-gray-8);
+    color: var(--color-black-8);
 }
 
 .s-header__nav a:hover, .s-header__nav a:focus {
