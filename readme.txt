@@ -2,7 +2,7 @@
 
 DESCRIPTION:
 
-FLARE is a free landing page and website template designed for digital agency or startup. With 
+Exoverse is a free landing page and website template designed for digital agency or startup. With 
 this template, you can now easily create a website that would make a strong and lasting impression. 
 Its trendy, modern, and sophisticated style will surely help your site to stand out visually and 
 grab the attention of those potential clients.
@@ -69,7 +69,7 @@ Also, keep your Paypal receipt as proof of payment and your good to go.
 
 SUPPORT:
     
-Since FLARE is distributed for free, support is not offered. FLARE is coded according 
+Since Exoverse is distributed for free, support is not offered. Exoverse is coded according 
 to current web standards and we did our best to make the template easy to use and modify.
 If you have minimum web development experience, you can easily modify the template. 
 However, If you're still new to HTML and CSS, I suggest that you visit the 
