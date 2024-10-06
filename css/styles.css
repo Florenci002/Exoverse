@@ -3541,9 +3541,12 @@ input::-moz-focus-inner {
     font-weight: 600;
     letter-spacing: -.04em;
     line-height: 1;
-    color: var(--color-1);
     margin-bottom: 0;
     position: relative;
+    background: linear-gradient(to right, #ff0000, #ffff00);
+    background-clip: text;
+    -webkit-background-clip: text; /* For Safari */
+    color: transparent;
 }
 
 .s-hero__content h1::before {
